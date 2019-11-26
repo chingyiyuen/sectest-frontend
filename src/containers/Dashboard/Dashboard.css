@@ -1,0 +1,21 @@
+.dashboard-counts-div {
+  color: grey;
+  font-size: 80px;
+  margin: 30px auto;
+}
+
+.dashboard-counts-span-orange {
+  color: orange;
+  padding: 0 15px;
+  font-weight: bold;
+}
+
+.dashboard-counts-span-blue {
+  color: #00adff;
+  padding: 0 15px;
+  font-weight: bold;
+}
+
+.dashboard-link {
+  margin: 20px auto;
+}

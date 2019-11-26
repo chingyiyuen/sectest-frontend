@@ -1,0 +1,30 @@
+button:focus {
+  outline: 0;
+}
+
+.client-page-btn {
+  width: 160px;
+  height: 150px;
+  border: 0;
+  border-radius: 60px;
+  color: white;
+  margin: 20px;
+  font-size: 70px;
+  cursor: pointer;
+}
+
+.client-page-btn-add {
+  background-color: #00adff;
+}
+
+.client-page-btn-minus {
+  background-color: orange;
+}
+
+.client-page-btn-add:hover {
+  background-color: #3ec1ff;
+}
+
+.client-page-btn-minus:hover {
+  background-color: #ffbb3e;
+}
